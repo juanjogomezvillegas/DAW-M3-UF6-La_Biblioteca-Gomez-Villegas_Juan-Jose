@@ -1,6 +1,6 @@
 # DAW-M3-UF6-La_Biblioteca-Gomez-Villegas_Juan-Jose
 
-Aplicació Java per terminal CLI per una Biblioteca. Aquest cop fent servir Java-Hibernate per fer connexions a una base de dades de MySQL. Aplicació permet realitzar una de les següents operacions:
+Aplicació Java per terminal CLI per una Biblioteca. Aquest cop fent servir Java-Hibernate per fer connexions a una base de dades de MySQL. L'Aplicació permet realitzar una de les següents operacions:
 
 - Afegir Llibres.
 - Afegir Reserves.
